@@ -7,6 +7,7 @@ let readMore = more.repeat(850)
 let lkr = `╭───❮ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄* ❯
 │ _${usedPrefix}ping_
 │ _${usedPrefix}uptime_
+│ _${usedPrefix}enable_
 │ _${usedPrefix}alive_
 │ _${usedPrefix}owner_
 │ _${usedPrefix}report_
@@ -22,8 +23,8 @@ let lkr = `╭───❮ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄* ❯
 
 ╭───❮ *𝙾𝚆𝙽𝙴𝚁 𝙼𝙴𝙽𝚄* ❯
 │ _${usedPrefix}*on/off* public_
+│ _${usedPrefix}*on/off* autoreact_
 │ _${usedPrefix}update_
-│ _${usedPrefix}enable_
 │ _${usedPrefix}autoadmin_
 │ _${usedPrefix}left_
 │ _${usedPrefix}banchat_
@@ -72,6 +73,28 @@ ${readMore}
 │ _${usedPrefix}tagall_
 ╰─────────────⦁
 
+╭───❮ *𝙵𝚄𝙽 𝙼𝙴𝙽𝚄* ❯
+│ _${usedPrefix}hearts_
+│ _${usedPrefix}question_
+│ _${usedPrefix}character_
+│ _${usedPrefix}truth_
+│ _${usedPrefix}dare_
+│ _${usedPrefix}flirt_
+│ _${usedPrefix}gay_
+│ _${usedPrefix}meme_
+│ _${usedPrefix}ship_
+│ _${usedPrefix}kill_
+│ _${usedPrefix}kiss_
+│ _${usedPrefix}pat_
+│ _${usedPrefix}slap_
+│ _${usedPrefix}waste_
+│ _${usedPrefix}simpcard_
+│ _${usedPrefix}hornycard_
+│ _${usedPrefix}ytcomment_
+│ _${usedPrefix}stupid_
+│ _${usedPrefix}lolicon_
+╰─────────────⦁
+
 ╭───❮ *𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳 𝙼𝙴𝙽𝚄* ❯
 │ _${usedPrefix}play_
 │ _${usedPrefix}play2_
@@ -107,27 +130,6 @@ ${readMore}
 │ _${usedPrefix}transfer_
 │ _${usedPrefix}todiamond_
 │ _${usedPrefix}tomoney_
-╰─────────────⦁
-
-╭───❮ *𝙵𝚄𝙽 𝙼𝙴𝙽𝚄* ❯
-│ _${usedPrefix}question_
-│ _${usedPrefix}character_
-│ _${usedPrefix}truth_
-│ _${usedPrefix}dare_
-│ _${usedPrefix}flirt_
-│ _${usedPrefix}gay_
-│ _${usedPrefix}meme_
-│ _${usedPrefix}ship_
-│ _${usedPrefix}kill_
-│ _${usedPrefix}kiss_
-│ _${usedPrefix}pat_
-│ _${usedPrefix}slap_
-│ _${usedPrefix}waste_
-│ _${usedPrefix}simpcard_
-│ _${usedPrefix}hornycard_
-│ _${usedPrefix}ytcomment_
-│ _${usedPrefix}stupid_
-│ _${usedPrefix}lolicon_
 ╰─────────────⦁
 
 ╭───❮ *𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙴𝚁 𝙼𝙴𝙽𝚄* ❯
